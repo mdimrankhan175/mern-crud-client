@@ -11,6 +11,8 @@ font-size:26px;
 margin-right:10px;
 `
 
+
+
 const NavBar=()=>{
     return(
 <Header position='static'>
